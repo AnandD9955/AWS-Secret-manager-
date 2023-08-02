@@ -1,1 +1,1 @@
-# AWS-Secret-manager-
+# AWS-Secret-manager
